@@ -10,6 +10,11 @@
       "StackName": "amplify-signalclone-dev-8e04f",
       "StackId": "arn:aws:cloudformation:us-east-1:211125629480:stack/amplify-signalclone-dev-8e04f/c2d219e0-2a64-11ef-ad9f-1259b1cf5f0b",
       "AmplifyAppId": "dpzpg17iql3bf"
+    },
+    "categories": {
+      "auth": {
+        "signalclonefd2e1998": {}
+      }
     }
   }
 }
